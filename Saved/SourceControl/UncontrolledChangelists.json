@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Project/ThirdPersonTemplate2/Content/01834__mp3cut_net___1_.uasset",
+				"D:/Project/ThirdPersonTemplate2/Content/01834__mp3cut_net___2_.uasset",
+				"D:/Project/ThirdPersonTemplate2/Content/ThirdPersonTemplate/Maps/NewWorld.umap",
+				"D:/Project/ThirdPersonTemplate2/Content/ThirdPersonTemplate/Maps/ThirdPersonTemplate.umap",
+				"D:/Project/ThirdPersonTemplate2/Content/ThirdPersonTemplate/Maps/ThirdPersonTemplate2.umap",
+				"D:/Project/ThirdPersonTemplate2/Content/ThirdPersonTemplate/Blueprints/NewBlueprint.uasset",
+				"D:/Project/ThirdPersonTemplate2/Content/ThirdPersonTemplate/Blueprints/NewBlueprint1.uasset"
+			]
+		}
+	]
+}
